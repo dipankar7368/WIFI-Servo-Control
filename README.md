@@ -4,10 +4,6 @@ A simple IoT project that allows you to control an **SG90 servo motor wirelessly
 
 The ESP32-C3 creates its own Wi-Fi network and hosts a mobile-friendly web page. After connecting the phone to the ESP32-C3, the servo angle can be controlled directly from the browser.
 
-## 📸 Project
-
-![ESP32-C3 Servo](c:\Users\Dipankar Bhunia\Videos\YOUTUBE VIDEO DATA\IMG20260923204332.jpg.jpeg)
-
 ## 🔧 Components
 
 - ESP32-C3 Super Mini
